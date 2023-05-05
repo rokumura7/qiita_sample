@@ -1,0 +1,17 @@
+{
+  "name": "playwright_local",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc",
+    "build:watch": "tsc --watch"
+  },
+  "author": "rokumura7",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.32.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.16.3",
+    "typescript": "^5.0.4"
+  }
+}
